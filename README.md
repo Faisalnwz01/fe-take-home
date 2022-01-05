@@ -4,7 +4,7 @@ Our goal for this challenge is to implement a quick-search functionality that mi
 
 Here is a screenshot of it in action.
 
-<img width="792" src="">
+<img width="792" src="https://github.com/Faisalnwz01/fe-take-home/blob/master/spotlight.png">
 
 Using Angular or React, we want to replicate a similar functionality in the browser by searching against a predefined list of objects.
 The searchable objects can be found in data.json
